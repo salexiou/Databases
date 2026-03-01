@@ -4,6 +4,9 @@ A comprehensive Relational Database Management System (RDBMS) designed to handle
 
 Developed as Phase A of the "Databases (PLH 303)" course at the Technical University of Crete (TUC), this project focuses on advanced database concepts including complex schema design, stored procedures, triggers, and views using **PostgreSQL**.
 
+**Authors:** 
+* Georgios Argyris (AM: 2020030138)
+* Stamatios Alexiou (AM: 2020030158)
 
 ## 🚀 Project Overview
 
